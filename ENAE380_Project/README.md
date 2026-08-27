@@ -34,4 +34,3 @@ Dependencies:
 - Matplotlib
 - NumPy
 
-Sample Code Output:
