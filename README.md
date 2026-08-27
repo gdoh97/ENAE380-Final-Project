@@ -34,10 +34,9 @@ Dependencies:
 - Matplotlib
 - NumPy
 
-Sample Code Output:
-!(https://raw.githubusercontent.com/gdoh/ENAE380-Final-Project/main/ENAE380_Project/sample_output.png)
+Sample Code Output: https://github.com/gdoh97/ENAE380-Final-Project/blob/main/ENAE380_Project/sample_output.png
 
-![3D Orbit Plot](https://raw.githubusercontent.com/gdoh/ENAE380-Final-Project/main/ENAE380_Project/samaple_plot.png)
+Sample Plot Output: https://github.com/gdoh97/ENAE380-Final-Project/blob/main/ENAE380_Project/sample_plot.png
 
 
 
